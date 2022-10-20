@@ -1,4 +1,4 @@
-# Ryerson-Baja
+# Arduino-Python Interface Live Telemetry
 
 Arduino and Python code can be found here
 
