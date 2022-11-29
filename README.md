@@ -1,5 +1,6 @@
 # Arduino-Python Interface Live Telemetry
 
+this was created for the TMU baja racing design team.
 Arduino and Python code can be found here
 
 https://ryerson.zoom.us/rec/share/kZsTYbfIKH5iUgtBf_RJ3o-vARGPvaJpqtg0ShaMhPaDlkb8ON5LvZSC1TcUFBiv.WsrtCJfeAEu8uhAo?startTime=1648507444000
