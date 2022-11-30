@@ -41,7 +41,7 @@ def animate(i, xs, ys):
 
     # Limit x and y lists to 20 items
     xs = xs[-20:]
-    ys = ys[-10:]
+    ys = ys[-20:]
 
     # Draw x and y lists
     ax.clear()
